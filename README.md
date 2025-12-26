@@ -2,12 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>我的第一个HTML页面</title>
+<title>壁纸</title>
 </head>
 <body>
-<h1>这是一个标题</h1>
-<p>这是一个段落。</p>
-<a href="https://www.runoob.com">这是一个链接</a>
-<img src="" alt="描述文字">
+<img src="img_v3_02tb_dcb72e2a-bd9e-4211-8d6c-b5010c0e46eg.jpg">
 </body>
 </html>
